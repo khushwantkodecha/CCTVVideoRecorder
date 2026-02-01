@@ -1,2 +1,10 @@
-# CCTV_Video_recording_from_IP_address_and_file_saving_using_cv2
-This code will capture live video steaming from CCTV camera using ip address after capturing video it will save that video into a specific directory.
+# CCTVVideoRecorder
+
+CCTV video recording using OpenCV.
+
+## Overview
+Captures live video streams from IP cameras and saves them locally.
+
+## Tech Stack
+- Python
+- OpenCV
